@@ -1,0 +1,8 @@
+{
+  "name": "frontline-fps",
+  "version": "2.0.0",
+  "description": "FRONTLINE - shooter cooperativo contra 100 bots, para móvil y PC",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
